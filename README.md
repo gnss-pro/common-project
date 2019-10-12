@@ -1,2 +1,1 @@
-# common-project
-GNSS公共包
+GNSS system for operating vehicles -- General specifications for data exchange between platforms.
